@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
       title: 'Material App',
-      initialRoute: 'homeScreen',
+      initialRoute: 'scrollDesing',
       routes: {
         'basicDesing': (_) => BasicDesingScreen(),
         'scrollDesing': (_) => ScrollDesingScreen(),
